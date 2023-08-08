@@ -2,7 +2,7 @@
 
 ## 🔭 I’m currently working on university assignments 🙃
 
-[gule-gulzar.com](https://gule-gulzar.com/)
+## [About me](https://gule-gulzar.com/)
 
 <!--
 **ADorigi/ADorigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
