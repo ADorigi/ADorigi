@@ -1,6 +1,7 @@
 # Hi there 👋👋👋
 
-## 🔭 I’m currently working on university assignments 🙃
+## 🔭 I’m currently learning new technologies
+## Current Interest: Go
 
 ## [About me](https://gule-gulzar.com/)
 
