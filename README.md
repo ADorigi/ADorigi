@@ -1,7 +1,7 @@
 # Hi there 👋👋👋
 
 ## 🔭 I’m currently learning new technologies
-## Current Interest: Go
+## Current Focus: [Kaytu](https://github.com/kaytu-io/kaytu)
 
 ## [About me](https://gule-gulzar.com/)
 
