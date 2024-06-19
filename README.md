@@ -4,8 +4,6 @@
 
 ### 💬 Ask me about Git, Python, Go, Containers, K8s, Networking
 
-*I regularly update the pins below*
-
 <!--
 
 ADnanORIGInal
