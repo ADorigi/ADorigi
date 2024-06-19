@@ -1,16 +1,27 @@
 # Hi there 👋👋👋
 
-## 🔭 I’m currently learning new technologies
-## Current Focus: [Kaytu](https://github.com/kaytu-io/kaytu)
+### 🔭 I’m currently working on [Kaytu GCP plugin](https://github.com/kaytu-io/plugin-gcp) 
 
-## [About me](https://gule-gulzar.com/)
+### 💬 Ask me about Git, Python, Go, Containers, K8s, Networking
+
 
 <!--
+
+ADnanORIGInal
+https://gule-gulzar.com/
+
+-->
+
+<!--
+ Current Focus: 
+
+
+
 **ADorigi/ADorigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently learning new technologies
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
