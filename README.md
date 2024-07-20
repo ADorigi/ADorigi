@@ -1,4 +1,4 @@
-# Hi there 👋👋👋
+# Hi there, I am Adnan
 
 ### 🔭 I’m currently working on [Kaytu GCP plugin](https://github.com/kaytu-io/plugin-gcp) 
 
