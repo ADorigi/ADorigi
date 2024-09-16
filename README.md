@@ -1,6 +1,6 @@
 # Hi there, I am Adnan
 
-### 🔭 I’m currently working on [Kaytu GCP plugin](https://github.com/kaytu-io/plugin-gcp) 
+### 🔭 I’m currently working on [Checkctl](https://github.com/kaytu-io/checkctl) 
 
 ### 💬 Ask me about Git, Python, Go, Containers, K8s, Networking
 
