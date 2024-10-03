@@ -1,32 +1,17 @@
 # Hi there, I am Adnan
 
-### 🔭 I’m currently working on [Checkctl](https://github.com/kaytu-io/checkctl) 
-
-### 💬 Ask me about Git, Python, Go, Containers, K8s, Networking
+## Recently Active Repos
+| Name | Owner |
+|------|--------------|
+| [responsive_react](https://github.com/ADorigi/responsive_react) | ADorigi |
+| [kaytu-charts](https://github.com/ADorigi/kaytu-charts) | ADorigi |
+| [HealthCheck](https://github.com/ADorigi/HealthCheck) | ADorigi |
+| [open-governance](https://github.com/ADorigi/open-governance) | ADorigi |
+| [validator](https://github.com/ADorigi/validator) | ADorigi |
+| [scratch](https://github.com/ADorigi/scratch) | ADorigi |
+| [checkctl](https://github.com/kaytu-io/checkctl) | kaytu-io |
+| [homebrew-adorigi](https://github.com/ADorigi/homebrew-adorigi) | ADorigi |
+| [syndicate-cli](https://github.com/ADorigi/syndicate-cli) | ADorigi |
+| [ADorigi](https://github.com/ADorigi/ADorigi) | ADorigi |
 
 ![Adnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=adorigi)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adorigi)
-<!--
-
-ADnanORIGInal
-https://gule-gulzar.com/
-
--->
-
-<!--
- Current Focus: 
-
-
-
-**ADorigi/ADorigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently learning new technologies
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
