@@ -1,0 +1,2 @@
+export:
+	cat ./.env | export
