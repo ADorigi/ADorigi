@@ -1,12 +1,17 @@
 # Hi there, I am Adnan
 
 ## Recently Active Repos
-| Name | Last Updated |
+| Name | Owner |
 |------|--------------|
-| [responsive_react](https://github.com/ADorigi/responsive_react) | 2024-10-02 |
-| [kaytu-charts](https://github.com/ADorigi/kaytu-charts) | 2024-10-02 |
-| [HealthCheck](https://github.com/ADorigi/HealthCheck) | 2024-10-02 |
-| [open-governance](https://github.com/ADorigi/open-governance) | 2024-09-30 |
-| [validator](https://github.com/ADorigi/validator) | 2024-09-27 |
+| [responsive_react](https://github.com/ADorigi/responsive_react) | ADorigi |
+| [kaytu-charts](https://github.com/ADorigi/kaytu-charts) | ADorigi |
+| [HealthCheck](https://github.com/ADorigi/HealthCheck) | ADorigi |
+| [open-governance](https://github.com/ADorigi/open-governance) | ADorigi |
+| [validator](https://github.com/ADorigi/validator) | ADorigi |
+| [scratch](https://github.com/ADorigi/scratch) | ADorigi |
+| [checkctl](https://github.com/kaytu-io/checkctl) | kaytu-io |
+| [homebrew-adorigi](https://github.com/ADorigi/homebrew-adorigi) | ADorigi |
+| [syndicate-cli](https://github.com/ADorigi/syndicate-cli) | ADorigi |
+| [ADorigi](https://github.com/ADorigi/ADorigi) | ADorigi |
 
 ![Adnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=adorigi)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adorigi)

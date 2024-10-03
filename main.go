@@ -15,6 +15,7 @@ type RepoInfo struct {
 	Name    string
 	HTMLURL string
 	Updated time.Time
+	Owner   string
 }
 
 type Data struct {
@@ -38,9 +39,6 @@ func main() {
 		},
 	})
 
-	// 	user, &github.RepositoryListOption
-	// 	Sort: "updated
-	//
 	if err != nil {
 		fmt.Println("Error fetching repositories:", err)
 		return
@@ -49,10 +47,12 @@ func main() {
 	var activeRepos []RepoInfo
 
 	for _, repo := range repos {
+		fmt.Println(repo.GetOwner().GetLogin())
 		repoInfo := RepoInfo{
 			Name:    repo.GetName(),
 			HTMLURL: repo.GetHTMLURL(),
 			Updated: repo.GetUpdatedAt().Time,
+			Owner:   repo.GetOwner().GetLogin(),
 		}
 		activeRepos = append(activeRepos, repoInfo)
 		if len(activeRepos) >= 10 {
@@ -61,7 +61,7 @@ func main() {
 	}
 
 	data := Data{
-		ActiveRepos: activeRepos[:min(len(activeRepos), 5)],
+		ActiveRepos: activeRepos[:min(len(activeRepos), 10)],
 	}
 
 	// Read the template file
