@@ -47,12 +47,27 @@ func main() {
 	var activeRepos []RepoInfo
 
 	for _, repo := range repos {
-		fmt.Println(repo.GetOwner().GetLogin())
-		repoInfo := RepoInfo{
-			Name:    repo.GetName(),
-			HTMLURL: repo.GetHTMLURL(),
-			Updated: repo.GetUpdatedAt().Time,
-			Owner:   repo.GetOwner().GetLogin(),
+
+		repository, _, _ := client.Repositories.Get(ctx, repo.GetOwner().GetLogin(), repo.GetName())
+		// fmt.Println(repository.GetParent())
+		var repoInfo RepoInfo
+
+		if repository.GetParent() == nil {
+
+			repoInfo = RepoInfo{
+				Name:    repo.GetName(),
+				HTMLURL: repo.GetHTMLURL(),
+				Updated: repo.GetUpdatedAt().Time,
+				Owner:   repo.GetOwner().GetLogin(),
+			}
+		} else {
+			repoInfo = RepoInfo{
+				Name:    repo.GetName(),
+				HTMLURL: repo.GetHTMLURL(),
+				Updated: repo.GetUpdatedAt().Time,
+				Owner:   repository.GetParent().GetOwner().GetLogin(),
+			}
+
 		}
 		activeRepos = append(activeRepos, repoInfo)
 		if len(activeRepos) >= 10 {
