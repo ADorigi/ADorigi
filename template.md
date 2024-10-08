@@ -1,6 +1,6 @@
 ### Hi, I am Adnan
 
-## Repos I have been recently active on:
+## Repos I have been recently active on(updated on: {{ .Date }}):
 | Name | Owner |
 |------|--------------|
 {{- range .ActiveRepos }}
