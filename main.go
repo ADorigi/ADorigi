@@ -16,10 +16,12 @@ type RepoInfo struct {
 	HTMLURL string
 	Updated time.Time
 	Owner   string
+	Date    string
 }
 
 type Data struct {
 	ActiveRepos []RepoInfo
+	Date        string
 }
 
 func main() {
@@ -77,6 +79,7 @@ func main() {
 
 	data := Data{
 		ActiveRepos: activeRepos[:min(len(activeRepos), 10)],
+		Date:        time.Now().Format(time.DateOnly),
 	}
 
 	// Read the template file
