@@ -1,6 +1,6 @@
 ### Hi, I am Adnan
 
-## Repos I have been recently active on(updated on: 2024-10-19):
+## Repos I have been active on recently(updated 2024-10-20)
 | Name | Owner |
 |------|--------------|
 | [ADorigi](https://github.com/ADorigi/ADorigi) | ADorigi |
@@ -14,5 +14,4 @@
 | [plugin-gcp](https://github.com/ADorigi/plugin-gcp) | opengovern |
 | [plugin-aws](https://github.com/ADorigi/plugin-aws) | opengovern |
 
-## A summary of languages I use
-![Adnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=adorigi)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adorigi)
+
