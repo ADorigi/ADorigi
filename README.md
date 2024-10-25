@@ -1,6 +1,6 @@
 ### Hi, I am Adnan
 
-## Repos I have been active on recently(updated 2024-10-24)
+## Repos I have been active on recently(updated 2024-10-25)
 | Name | Owner |
 |------|--------------|
 | [og-azure-describer](https://github.com/opengovern/og-azure-describer) | opengovern |
