@@ -1,11 +1,11 @@
 ### Hi, I am Adnan
 
-## Repos I have been active on recently(updated 2024-10-26)
+## Repos I have been active on recently(updated 2024-10-27)
 | Name | Owner |
 |------|--------------|
-| [og-util](https://github.com/opengovern/og-util) | opengovern |
-| [ADorigi](https://github.com/ADorigi/ADorigi) | ADorigi |
 | [og-azure-describer](https://github.com/opengovern/og-azure-describer) | opengovern |
+| [ADorigi](https://github.com/ADorigi/ADorigi) | ADorigi |
+| [og-util](https://github.com/opengovern/og-util) | opengovern |
 | [grype](https://github.com/ADorigi/grype) | anchore |
 | [checkctl](https://github.com/opengovern/checkctl) | opengovern |
 | [plugin-gcp](https://github.com/opengovern/plugin-gcp) | opengovern |
