@@ -1,10 +1,10 @@
 ### Hi, I am Adnan
 
-## Repos I have been active on recently(updated 2024-11-26)
+## Repos I have been active on recently(updated 2024-11-27)
 | Name | Owner |
 |------|--------------|
-| [ADorigi](https://github.com/ADorigi/ADorigi) | ADorigi |
 | [validator-plugin-oci](https://github.com/ADorigi/validator-plugin-oci) | validator-labs |
+| [ADorigi](https://github.com/ADorigi/ADorigi) | ADorigi |
 | [grype](https://github.com/ADorigi/grype) | anchore |
 | [checkctl](https://github.com/opengovern/checkctl) | opengovern |
 | [validator](https://github.com/ADorigi/validator) | validator-labs |
