@@ -1,6 +1,6 @@
 ### Hi, I am Adnan
 
-## Repos I have been active on recently(updated 2025-03-29)
+## Repos I have been active on recently(updated 2025-03-30)
 | Name | Owner |
 |------|--------------|
 | [ADorigi](https://github.com/ADorigi/ADorigi) | ADorigi |
